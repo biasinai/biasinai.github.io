@@ -8,6 +8,15 @@ To explore the biases present in multilingual ASR systems trained on extensive s
 More often, an imbalanced distribution of evaluation data across various sub-categories can result in an inadequate analysis of the evaluation process itself. Therefore, we %have introduced this study along with 
 explore two resampling methods, namely, _naïve_ and _Synthetic Minority Oversampling Technique_ (SMOTE), to ensure a balanced data distribution across each subgroup when quantifying the biases. In the assessment of ASR systems, our primary choice of metrics includes Word Error Rate (WER) and Character Error Rate (CER). Interestingly, we observe that oversampling techniques can alleviate performance disparities between certain subgroups.
 
+# Table of Contents
+- [Contributions](#contributions)
+- [Results & Analysis](#results-and-analysis)
+    - [Gender](#gender)
+    - [Age Group](#age-group)
+    - [Skin Tone](#skin-tone)
+    - [Geolocation](#geolocation)
+- [CER plots](https://biasinai.github.io/results/)
+
 ## Contributions
 
 The main contributions of this paper are as follows: 
