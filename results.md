@@ -20,7 +20,7 @@ permalink: /results/
 | Initial                                                         | Naive                                                                | Smute                                                           |
 |-----------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|
 | <img src="/assets/graphs/initial/port_init_age_cer.png"  />     | <img src="/assets/graphs/naive/port_naive_age_cer.png"  />           | <img src="/assets/graphs/smote/port_smote_age_cer.png"  />      |
-| <img src="/assets/graphs/initial/port_init_age+gen_cer.png"  /> | <img src="/assets/graphs/naive/port_naive_age_gen_distr_cer.png"  /> | <img src="/assets/graphs/smote/port_smote_distrage_cer.png"  /> |
+| <img src="/assets/graphs/initial/port_init_age+gen_cer.png"  /> | <img src="/assets/graphs/naive/port_naive_age_gen_distr_cer.png"  /> | <img src="/assets/graphs/smote/port_smote_gend+groups_cer.png "  /> |
 
 </details>
 
