@@ -3,15 +3,14 @@ layout: page
 title: Results
 permalink: /results/
 ---
-<details>
-  <summary>Gender</summary>
 
-
+# Character Error Rate Analysis on Categories
+## Gender
 <table>
   <tr>
     <th>Initial</th>
     <th>Naive</th>
-    <th>Smute</th>
+    <th>SMOTE</th>
   </tr>
   <tr>
     <td><img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png" alt=".png" /></td>
@@ -26,16 +25,12 @@ permalink: /results/
 </table>
 
 
-</details>
-
-<details>
-  <summary>Age</summary>
-  
+## Age
 <table>
   <tr>
     <th>Initial</th>
     <th>Naive</th>
-    <th>Smute</th>
+    <th>SMOTE</th>
   </tr>
   <tr>
     <td><img src="/assets/graphs/initial/port_init_age_cer.png" alt=".png" /></td>
@@ -49,17 +44,13 @@ permalink: /results/
   </tr>
 </table>
 
-</details>
-
-<details>
-  <summary>Skin-tone</summary>
-
+## Skin Tone
   <table>
 <thead>
   <tr>
     <th>Initial</th>
     <th>Naive</th>
-    <th>Smute</th>
+    <th>SMOTE</th>
   </tr>
 </thead>
 <tbody>
@@ -76,5 +67,4 @@ permalink: /results/
 </tbody>
 </table>
 
-</details>
 
