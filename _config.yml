@@ -1,6 +1,11 @@
-title: []
+title: [Home]
 description: []
 
+theme: minima
+
+
+twitter_username: jekyllrb
+github_username:  jekyll
 
 header_pages:
 - results.md
