@@ -3,19 +3,22 @@
 
 In the field of spoken language understanding, systems like Whisper and Multilingual Massive Speech (MMS) have shown state-of-the-art performances. This study is dedicated to a comprehensive exploration of the Whisper and MMS systems, with a focus on assessing biases inherent in casual conversation speech specific to the Portuguese language. Our investigation encompasses various subgroups, including those categorized by gender, age, skin tone color, and geo-location. Alongside traditional ASR evaluation metrics such as Word Error Rate (WER) and Character Error Rate (CER), we have incorporated the computation of bias ratios, accompanied by p-values to substantiate the statistical significance of our findings across different subgroups. This research represents a pioneering effort in quantifying biases in the Portuguese language context through the application of MMS and Whisper, contributing to a better understanding of ASR systems' performance in multilingual settings.
 
-To explore the biases present in multilingual ASR systems trained on extensive speech data, we investigated variants of OpenAI's Whisper ASR system and Meta AI's MMS ASR system, both of which have achieved state-of-the-art performance levels. In addition, we selected the Casual Conversation Dataset version 2 (CCD V2) to quantify biases and assess the fairness of these system performances in the context of the Portuguese language. Our study takes into account a diverse spectrum of categories, including age groups, gender, geographical locations, and skin tones. The consistency in textual content across all CCD V2 recordings establishes a robust basis for the efficient evaluation of system performance across a broad array of categories. Only a limited number of studies have delved into the influence of state-of-the-art multilingual ASR systems on domain-specific ASR tasks. For example, these studies have explored code-switching between languages using systems like Whisper and MMS, or they have examined the effects of ASR errors on discourse models among groups of students in noisy, real-world classroom settings between Whisper and Google ASR system.
-
-More often, an imbalanced distribution of evaluation data across various sub-categories can result in an inadequate analysis of the evaluation process itself. Therefore, we %have introduced this study along with 
-explore two resampling methods, namely, _naïve_ and _Synthetic Minority Oversampling Technique_ (SMOTE), to ensure a balanced data distribution across each subgroup when quantifying the biases. In the assessment of ASR systems, our primary choice of metrics includes Word Error Rate (WER) and Character Error Rate (CER). Interestingly, we observe that oversampling techniques can alleviate performance disparities between certain subgroups.
-
 # Table of Contents
+- [Introduction](#introduction)
 - [Contributions](#contributions)
 - [Results & Analysis](#results-and-analysis)
     - [Gender](#gender)
     - [Age Group](#age-group)
     - [Skin Tone](#skin-tone)
     - [Geolocation](#geolocation)
-- [CER plots](https://biasinai.github.io/results/)
+- [Character Error Rate Analysis on Categories](https://biasinai.github.io/results/)
+
+## Introduction
+To explore the biases present in multilingual ASR systems trained on extensive speech data, we investigated variants of OpenAI's Whisper ASR system and Meta AI's MMS ASR system, both of which have achieved state-of-the-art performance levels. In addition, we selected the Casual Conversation Dataset version 2 (CCD V2) to quantify biases and assess the fairness of these system performances in the context of the Portuguese language. Our study takes into account a diverse spectrum of categories, including age groups, gender, geographical locations, and skin tones. The consistency in textual content across all CCD V2 recordings establishes a robust basis for the efficient evaluation of system performance across a broad array of categories. Only a limited number of studies have delved into the influence of state-of-the-art multilingual ASR systems on domain-specific ASR tasks. For example, these studies have explored code-switching between languages using systems like Whisper and MMS, or they have examined the effects of ASR errors on discourse models among groups of students in noisy, real-world classroom settings between Whisper and Google ASR system.
+
+More often, an imbalanced distribution of evaluation data across various sub-categories can result in an inadequate analysis of the evaluation process itself. Therefore, we have introduced this study along with 
+explore two resampling methods, namely, _naïve_ and _Synthetic Minority Oversampling Technique_ (SMOTE), to ensure a balanced data distribution across each subgroup when quantifying the biases. In the assessment of ASR systems, our primary choice of metrics includes Word Error Rate (WER) and Character Error Rate (CER). Interestingly, we observe that oversampling techniques can alleviate performance disparities between certain subgroups.
+
 
 ## Contributions
 
