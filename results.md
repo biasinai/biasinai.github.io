@@ -5,7 +5,6 @@ permalink: /results/
 ---
 <details>
   <summary>Gender</summary>
-  <b>Graphs of initial, naive and smote, respectively.</b>
 
 | Initial                                                               | Naive                                                                 | Smute                                                                 |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -16,7 +15,7 @@ permalink: /results/
 
 <details>
   <summary>Age</summary>
-  <b>Graphs of initial, naive and smote, respectively.</b>
+  
   
 | Initial                                                         | Naive                                                                | Smute                                                           |
 |-----------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -26,8 +25,7 @@ permalink: /results/
 </details>
 
 <details>
-  <summary>Skin-tone</summary>s
-  <b>Graphs of initial, naive and smote, respectively.</b>
+  <summary>Skin-tone</summary>
 
 | Initial                                                           | Naive                                                            | Smute                                                        |
 |-------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|
