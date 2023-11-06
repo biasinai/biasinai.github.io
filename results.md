@@ -6,12 +6,13 @@ permalink: /results/
 <details>
   <summary>Gender</summary>
   <b>Graphs of initial, naive and smote, respectively.</b>
-<style>
-.p {
-  display: flex;
-  align-items: center; 
- padding-left: 10px;
-}
+
+| Initial                                                               | Naive                                                                 | Smute                                                                 |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> |
+| <img src="/assets/graphs/initial/port_init_gen_cer.png"  />           | <img src="/assets/graphs/naive/port_naive_gen_distr_cer.png"  />      | <img src="/assets/graphs/smote/port_smote_gender_cer.png"  />         |
+
+
 
 <p float="left">
   <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  />
