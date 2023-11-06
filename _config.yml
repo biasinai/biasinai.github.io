@@ -1,11 +1,10 @@
-title: [Home]
+title: Home
 description: []
 
 theme: minima
 
 
-twitter_username: jekyllrb
-github_username:  jekyll
-
+twitter_username:
+github_username:
 header_pages:
 - results.md
