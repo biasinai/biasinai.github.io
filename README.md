@@ -1,5 +1,3 @@
-\
-
 
 # The balancing Act: unmasking and alleviating ASR Biases in Portuguese
 
