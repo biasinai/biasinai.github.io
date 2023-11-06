@@ -6,6 +6,8 @@ permalink: /results/
 <details>
   <summary>Gender</summary>
 
+
+
 | Initial                                                               | Naive                                                                 | Smute                                                                 |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
 | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> |
@@ -31,6 +33,30 @@ permalink: /results/
 |-------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|
 | <img src="/assets/graphs/initial/port_init_fitz_cer.png"  />      | <img src="/assets/graphs/naive/port_naive_fitz_cer.png.png"  />  | <img src="/assets/graphs/smote/port_smote_fitz_cer.png"  />  |
 | <img src="/assets/graphs/initial/port_init_skintones_cer.png"  /> | <img src="/assets/graphs/naive/port_naive_skintones_cer.png"  /> | <img src="/assets/graphs/smote/port_smote_tones_cer.png"  /> |
+
+
+
+  <table>
+<thead>
+  <tr>
+    <th>Initial</th>
+    <th>Naive</th>
+    <th>Smute</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/assets/graphs/initial/port_init_fitz_cer.png"  /></td>
+    <td><img src="/assets/graphs/naive/port_naive_fitz_cer.png.png"  /></td>
+    <td><img src="/assets/graphs/smote/port_smote_fitz_cer.png"  /></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/graphs/initial/port_init_skintones_cer.png"  /></td>
+    <td><img src="/assets/graphs/naive/port_naive_skintones_cer.png"  /></td>
+    <td><img src="/assets/graphs/smote/port_smote_tones_cer.png"  /></td>
+  </tr>
+</tbody>
+</table>
 
 </details>
 
