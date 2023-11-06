@@ -10,7 +10,7 @@ permalink: /results/
 | Initial                                                               | Naive                                                                 | Smute                                                                 |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
 | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> | <img src="/assets/graphs/initial/port_init_fitz_gen_cer.png .png"  /> |
-| <img src="/assets/graphs/initial/port_init_gen_cer.png"  />           | <img src="/assets/graphs/naive/port_naive_gen_distr_cer.png"  />      | <img src="/assets/graphs/smote/port_smote_gender_cer.png"  />         |
+| <img src="/assets/graphs/initial/port_init_gen_cer.png"  />           | <img src="/assets/graphs/naive/port_naive_large_cer.png"  />      | <img src="/assets/graphs/smote/port_smote_gender_cer.png"  />         |
 
 </details>
 
