@@ -82,48 +82,53 @@ The abbreviations for `Fitzpatrick scale'  are: T.1 - type i, T.1 - type ii, T.1
 
 ## Age Groups
 
-<div class="tg-wrap"><table>
+<table>
 <thead>
   <tr>
     <th colspan="2"></th>
-    <th>T.1</th>
-    <th>T.2</th>
-    <th>T.3</th>
-    <th>T.4</th>
-    <th>T.5</th>
-    <th>T.6</th>
+    <th>18-24</th>
+    <th>25-30</th>
+    <th>31-36</th>
+    <th>37-42</th>
+    <th>43-50</th>
+    <th>51-60</th>
+    <th>61+</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td colspan="2">Initial</td>
-    <td>11</td>
-    <td>192</td>
-    <td>289</td>
-    <td>159</td>
-    <td>72</td>
-    <td>17</td>
+    <td>83</td>
+    <td>201</td>
+    <td>164</td>
+    <td>137</td>
+    <td>103</td>
+    <td>44</td>
+    <td>8</td>
   </tr>
   <tr>
     <td colspan="2">Naïve</td>
-    <td>25</td>
-    <td>681</td>
-    <td>743</td>
-    <td>345</td>
-    <td>164</td>
-    <td>70</td>
+    <td>293</td>
+    <td>282</td>
+    <td>297</td>
+    <td>293</td>
+    <td>283</td>
+    <td>274</td>
+    <td>285</td>
   </tr>
   <tr>
     <td colspan="2">SMOTE</td>
-    <td>1925</td>
-    <td>1893</td>
-    <td>2630</td>
-    <td>1132</td>
-    <td>322</td>
-    <td>984</td>
+    <td>1014</td>
+    <td>2918</td>
+    <td>1703</td>
+    <td>1236</td>
+    <td>978</td>
+    <td>458</td>
+    <td>579</td>
   </tr>
 </tbody>
-</table></div>
+</table>
+
 
 ## Geo Location
 
