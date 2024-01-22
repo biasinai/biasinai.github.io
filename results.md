@@ -2,7 +2,7 @@
 layout: page
 title: Results
 description: Character Error Rate Analysis on Categories
-permalink: /results/
+permalink: /asrbias/results/
 ---
 
 # Character Error Rate Analysis on Categories
