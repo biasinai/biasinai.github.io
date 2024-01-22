@@ -1,3 +1,10 @@
+---
+layout: page
+title: Home
+description: Character Error Rate Analysis on Categories
+permalink: /asrbias/
+---
+
 
 # The balancing Act: unmasking and alleviating ASR Biases in Portuguese
 
