@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "The Balancing Act"
 description: "unmasking and alleviating ASR Biases in Portuguese"
 permalink: /asrbias/
