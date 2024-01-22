@@ -70,7 +70,7 @@ However, amidst these disparities, the MMS ASR system stands out with evenly dis
 
 ### Age Group
 <figure>
-    <img src="assets/Age_all.jpg"
+    <img src="asrbias/assets/Age_all.jpg"
          alt="">
     <figcaption>Figure 4: Bar-plots illustrating distribution of WER for age groups categorized into five sub-sets (18-24, 25-30, 31-36,  37-42, 42-50, 51-60, 61+) across initial, naïve and SMOTE sampling methods.</figcaption>
 </figure>
