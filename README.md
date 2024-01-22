@@ -1,12 +1,12 @@
 ---
 layout: default
-title: ASR Bias
-description: The balancing Act: unmasking and alleviating ASR Biases in Portuguese
+title: The Balancing Act
+description: unmasking and alleviating ASR Biases in Portuguese
 permalink: /asrbias/
 ---
 
 
-# The balancing Act: unmasking and alleviating ASR Biases in Portuguese
+# The Balancing Act: unmasking and alleviating ASR Biases in Portuguese
 
 In the field of spoken language understanding, systems like Whisper and Multilingual Massive Speech (MMS) have shown state-of-the-art performances. This study is dedicated to a comprehensive exploration of the Whisper and MMS systems, with a focus on assessing biases in automatic speech recognition (ASR) inherent to casual conversation speech specific to the Portuguese language. Our investigation encompasses various categories, including gender, age, skin tone color, and geo-location. Alongside traditional ASR evaluation metrics such as Word Error Rate (WER), we have incorporated p-value statistical significance for gender bias analysis. Furthermore, we extensively examine the impact of data distribution and empirically show that oversampling techniques alleviate such stereotypical biases. This research represents a pioneering effort in quantifying biases in the Portuguese language context through the application of MMS and Whisper, contributing to a better understanding of ASR systems' performance in multilingual settings.
 
