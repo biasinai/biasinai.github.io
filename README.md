@@ -42,7 +42,7 @@ The main contributions of this paper are as follows:
 ### Gender
 
 <figure>
-    <img src="assets/Gender_Skin_Tone.jpg"
+    <img src="/assets/Gender_Skin_Tone.jpg"
          alt="">
     <figcaption>Figure 1: Bar plots depicting Whisper and ASR performance across the Fitzpatrick skin-tone scale, ranging from
 type-I to type-VI, for both male and female genders, with results for initial samples, naïve sampling, and SMOTE
@@ -50,7 +50,7 @@ sampling</figcaption>
 </figure>
 <br><br>
 <figure>
-    <img src="assets/Gender_all_Port.jpg"
+    <img src="/assets/Gender_all_Port.jpg"
          alt="">
     <figcaption>Figure 2: Bar-plots demonstrating performance of multilingual ASR systems using Whisper ASR variants and MMS for impact on male and female genders using WER under three sampling methods, initial, naïve and SMOTE. Whisper ASR variants are indicated as, Whisper-Large (W-L), Whisper-Large-V2 (W-L-V2), and Whisper-Medium (W-M).</figcaption>
 </figure>
