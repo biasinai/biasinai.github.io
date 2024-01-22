@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: default
+title: ASR Bias
 description: The balancing Act: unmasking and alleviating ASR Biases in Portuguese
 permalink: /asrbias/
 ---
