@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-description: Character Error Rate Analysis on Categories
+description: The balancing Act: unmasking and alleviating ASR Biases in Portuguese
 permalink: /asrbias/
 ---
 
@@ -19,7 +19,7 @@ In the field of spoken language understanding, systems like Whisper and Multilin
     - [Age Group](#age-group)
     - [Skin Tone](#skin-tone)
     - [Geolocation](#geolocation)
-- [Character Error Rate Analysis on Categories](https://biasinai.github.io/results/)
+- [Character Error Rate Analysis on Categories](https://biasinai.github.io/asrbias/results/)
 
 ## Introduction
 To explore the biases present in multilingual ASR systems trained on extensive speech data, we investigated variants of OpenAI's Whisper ASR system and Meta AI's MMS ASR system, both of which have achieved state-of-the-art performance levels. In addition, we selected the Casual Conversation Dataset version 2 (CCD V2) to quantify biases and assess the fairness of these system performances in the context of the Portuguese language. Our study takes into account a diverse spectrum of categories, including age groups, gender, geographical locations, and skin tones. The consistency in textual content across all CCD V2 recordings establishes a robust basis for the efficient evaluation of system performance across a broad array of categories. Only a limited number of studies have delved into the influence of state-of-the-art multilingual ASR systems on domain-specific ASR tasks. For example, these studies have explored code-switching between languages using systems like Whisper and MMS, or they have examined the effects of ASR errors on discourse models among groups of students in noisy, real-world classroom settings between Whisper and Google ASR system.
