@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The Balancing Act
-description: unmasking and alleviating ASR Biases in Portuguese
+title: "The Balancing Act"
+description: "unmasking and alleviating ASR Biases in Portuguese"
 permalink: /asrbias/
 ---
 
