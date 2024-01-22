@@ -3,3 +3,6 @@ description: []
 
 header_pages:
 - results.md
+
+include:
+  - pages
