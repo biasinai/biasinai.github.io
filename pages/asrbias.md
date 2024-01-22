@@ -60,7 +60,7 @@ Significant disparities are evident across different skin tone types between mal
 ### Skin-tone
     
 <figure>
-    <img src="assets/Skin_tone_all_port.jpg"
+    <img src="/assets/Skin_tone_all_port.jpg"
          alt="">
     <figcaption>Figure 3: Bar-plots illustrating the distribution of mean WER for Fitzpatrick skin tone scales across Initial, naïve, and SMOTE sampling methods.</figcaption>
 </figure>
@@ -70,7 +70,7 @@ However, amidst these disparities, the MMS ASR system stands out with evenly dis
 
 ### Age Group
 <figure>
-    <img src="assets/Age_all.jpg"
+    <img src="/assets/Age_all.jpg"
          alt="">
     <figcaption>Figure 4: Bar-plots illustrating distribution of WER for age groups categorized into five sub-sets (18-24, 25-30, 31-36,  37-42, 42-50, 51-60, 61+) across initial, naïve and SMOTE sampling methods.</figcaption>
 </figure>
@@ -81,7 +81,7 @@ This distinctively highlights the positive impact of SMOTE sampling in reducing 
 
 ### Geolocation
 <figure>
-    <img src="assets/Geo_location_all.jpg"
+    <img src="/assets/Geo_location_all.jpg"
          alt="">
     <figcaption>Figure 5: The visualization of mean WER distribution in each Portuguese state. The abbreviations of states are as follows: RN - Rio Grande do Norte, SP - Sao Paulo, RS - Rio Grande do Sul, GO -Goias, MT - Mato Grosso, PR - Parana, RJ - Rio de Janeiro, MG - Minas Gerais, PI - Piaui, PE - Pernambuco, MA - Maranhao.</figcaption>
 </figure>
