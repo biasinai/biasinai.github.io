@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "The Balancing Act"
 permalink: /asrbias/
 ---
