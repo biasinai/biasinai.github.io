@@ -15,8 +15,9 @@ With the introduction of large language models, there has been significant conce
 
 
 <blockquote class="blockquote" style="border-left: 5 px solid #000000">
-  <p class="mb-0"><span style="color:red">Note</span>: Anonymised repository with the code and implementation details is available here: <a href = "https://anonymous.4open.science/r/refine-lm-submission"> refine-lm-submission</p>
+  <p class="mb-0"><span style="color:red">Note</span>: Anonymised repository with the code and implementation details is available here: <a href = "https://anonymous.4open.science/r/refine-lm-submission">refine-lm-submission</a></p>
 </blockquote>
+
 
 ## Table of Contents
 - [Introduction](#introduction)
