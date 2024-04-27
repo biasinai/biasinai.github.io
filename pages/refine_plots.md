@@ -9,6 +9,7 @@ permalink: /refinelm/figures/
 Please click on the category to check the results for the respective sub-categories of all the tested LMs.
 <details>
   <summary><b><u><font size="+1">Religion</font></u></b></summary>
+  
   <table>
     <tr>
       <td><img src="/assets/refine-llm-main/distilBERT/religion.png", alt=".png"/></td>
@@ -31,6 +32,7 @@ Please click on the category to check the results for the respective sub-categor
 
 <details>
   <summary><b><u><font size="+1">Ethnicity</font></u></b></summary>
+  
   <table>
     <tr>
       <td><img src="/assets/refine-llm-main/distilBERT/ethnicity.png", alt=".png"></td>
@@ -53,6 +55,7 @@ Please click on the category to check the results for the respective sub-categor
 
 <details>
   <summary><b><u><font size="+1">Nationality</font></u></b></summary>
+  
   <table>
     <tr>
       <td><img src="/assets/refine-llm-main/distilBERT/country.png", alt=".png"></td>
