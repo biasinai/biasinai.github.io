@@ -13,11 +13,12 @@ With the introduction of large language models, there has been significant conce
 -  is applicable to different types of biases, generalizing across contexts such as gender, ethnicity, religion, and nationality-based biases; and
 -  it is not expensive to train.
 
-{% include note.html content="Anonymised repository with the code and implementation details is available here. <br/><br/> Now I'm typing on a  new line." %}
 
-> [!IMPORTANT]  
-> Anonymised repository with the code and implementation details is available here: [refine-lm-submission](https://anonymous.4open.science/r/refine-lm-submission)
-
+> NOTE: Anonymised repository with the code and implementation details is available here: [refine-lm-submission](https://anonymous.4open.science/r/refine-lm-submission)
+<blockquote class="blockquote">
+  <p class="mb-0">Block Quote Example.</p>
+  <footer class="blockquote-footer">The Wolf in <cite title="Source Title">Pulp Fiction</cite></footer>
+</blockquote>
 
 ## Table of Contents
 - [Introduction](#introduction)
