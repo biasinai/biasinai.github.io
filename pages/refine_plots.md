@@ -8,15 +8,15 @@ permalink: /refinelm/figures/
 # Comparison of subcategories
 Please click on the category to check the results for the respective sub-categories of all the tested LMs.
 <details>
-  <summary><b><u><font size="+7">Religion</font></u></b></summary>
+  <summary><b><u><font size="+1">Religion</font></u></b></summary>
   <table>
     <tr>
-      <td><img src="/assets/refine-llm-main/distilBERT/religion.png", alt=".png"></td>
-       <td><img src="/assets/refine-llm-main/BERT/religion.png", alt=".png"></td>
+      <td><img src="/assets/refine-llm-main/distilBERT/religion.png", alt=".png"/></td>
+       <td><img src="/assets/refine-llm-main/BERT/religion.png", alt=".png"/></td>
     </tr>
     <tr>
-        <td><img src="/assets/refine-llm-main/RoBERTa/religion.png", alt=".png"></td>
-       <td><img src="/assets/refine-llm-main/mistral7b/religion.png", alt=".png"></td>
+        <td><img src="/assets/refine-llm-main/RoBERTa/religion.png", alt=".png"/></td>
+       <td><img src="/assets/refine-llm-main/mistral7b/religion.png", alt=".png"/></td>
     </tr>
       <tr>
         <td><img src="/assets/refine-llm-main/llama7b/religion.png", alt=".png"></td>
@@ -30,7 +30,7 @@ Please click on the category to check the results for the respective sub-categor
 </details>
 
 <details>
-  <summary><b><u><font size="+7">Ethnicity</font></u></b></summary>
+  <summary><b><u><font size="+1">Ethnicity</font></u></b></summary>
   <table>
     <tr>
       <td><img src="/assets/refine-llm-main/distilBERT/ethnicity.png", alt=".png"></td>
@@ -52,7 +52,7 @@ Please click on the category to check the results for the respective sub-categor
 </details>
 
 <details>
-  <summary><b><u><font size="+7">Nationality</font></u></b></summary>
+  <summary><b><u><font size="+1">Nationality</font></u></b></summary>
   <table>
     <tr>
       <td><img src="/assets/refine-llm-main/distilBERT/country.png", alt=".png"></td>
