@@ -14,10 +14,8 @@ With the introduction of large language models, there has been significant conce
 -  it is not expensive to train.
 
 
-> NOTE: Anonymised repository with the code and implementation details is available here: [refine-lm-submission](https://anonymous.4open.science/r/refine-lm-submission)
-<blockquote class="blockquote">
-  <p class="mb-0">Block Quote Example.</p>
-  <footer class="blockquote-footer">The Wolf in <cite title="Source Title">Pulp Fiction</cite></footer>
+<blockquote class="blockquote" style="border-left: 5 px solid #000000">
+  <p class="mb-0"><span style="color:red">Note</span>: Anonymised repository with the code and implementation details is available here: <a href = "https://anonymous.4open.science/r/refine-lm-submission"> refine-lm-submission</p>
 </blockquote>
 
 ## Table of Contents
