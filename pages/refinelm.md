@@ -100,5 +100,9 @@ of the debiased LLM on downstream tasks.
 | Bias Intensity    |   0.1185   |   0.0372  |   0.0482   |   0.0196  |   0.0447   |   0.0182  |    0.0505   |   0.0259  |
 
 
+## Plots
+[Click here](https://biasinai.github.io/refinelm/figures/) to check the results for models' performances on subcategories for each dataset.
+
+
 
 
