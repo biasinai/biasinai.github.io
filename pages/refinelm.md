@@ -13,9 +13,13 @@ With the introduction of large language models, there has been significant conce
 -  is applicable to different types of biases, generalizing across contexts such as gender, ethnicity, religion, and nationality-based biases; and
 -  it is not expensive to train.
 
+<blockquote class="blockquote" style="border-left: 5 px solid #7CFC00">
+  <p class="mb-0"><span style="color:red">Visualizations</span>: Follow this link for interesting visualisations and more results. <a href = "https://biasinai.github.io/refinedemo/">Refine-LM Demo</a></p>
+</blockquote>
+
 
 <blockquote class="blockquote" style="border-left: 5 px solid #000000">
-  <p class="mb-0"><span style="color:red">Note</span>: Anonymised repository with the code and implementation details is available here: <a href = "https://anonymous.4open.science/r/refine-lm-submission">refine-lm-submission</a></p>
+  <p class="mb-0"><span style="color:red">Note</span>: Github repository with the code and implementation details is available here: <a href = "https://github.com/rameez-mrq/refine-lm-ecai">refine-lm-submission</a></p>
 </blockquote>
 
 
